@@ -3,13 +3,13 @@
 My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my second year studying Computer Science and Mathematics at the University of British Columbia. My hobbies and interests include Aviation, travelling, gaming, and hanging out with friends and family. 
 
 # Technical Skills
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="75"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="75"/> 
-<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="130"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" width="170"/> 
-<img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" width="110"/> 
-
+<p align="middle">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="75"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="75"/> 
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="130"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" width="170"/> 
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" width="110"/> 
+</p>
 
 
 # Completed Computer Science and Math Courses
