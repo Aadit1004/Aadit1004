@@ -14,15 +14,8 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 
 # Completed Computer Science and Math Courses📝
 
-### 1st Year
 - CPSC 110 (Computation, Programs, and Programming)
   - Learned how to use design processes to write functions as well as learning introduction recursion, abstraction, and data structures written in Racket BSL.
-- MATH 104 (Differential Calculus with Application) 
-  - Learned the derivatives of elementary functions and applications and modelling on graphing and optimization.
-- MATH 105 (Integral Calculus with Application) 
-  - Learned the definite integral, integration techniques, applications, modelling, infinite series.
-
-### 2nd Year
 - CPSC 121 (Models of Computation)
   - Learned boolean algebra and combinations logic circuits, proof techniques, functions and sequential circuits, sets and relations, and finite state machines.
 - CPSC 210 (Software Construction)
