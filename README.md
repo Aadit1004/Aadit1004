@@ -1,8 +1,8 @@
-# About Me
+# About Me👨‍💻
 
 My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my second year studying Computer Science and Mathematics at the University of British Columbia. My hobbies and interests include Aviation, travelling, gaming, and hanging out with friends and family. 
 
-# Technical Skills
+# Technical Skills💻
 <p align="middle">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="75"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="75"/> 
@@ -12,7 +12,7 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 </p>
 
 
-# Completed Computer Science and Math Courses
+# Completed Computer Science and Math Courses📝
 
 ### 1st Year
 - CPSC 110 (Computation, Programs, and Programming)
@@ -36,16 +36,18 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 - MATH 200 (Calculus III) 
   - Learned analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications.
 
-# Completed Projects
+# Completed Projects✍️
 
 - Linear Algebra C++ Static Library
 - Multithreaded Text Analysis
 - ATM Bank Application
 
-# Currently Learning
+# Current Projects📋
 
-- Unity3D / C#
-- Raylib C++ Library
+- Sorting Algorithms Visualizer
+  - Using the Raylib C++ Library to display a visual graphic of a few sorting algorithms.
+- FPS Game
+  - Using Unity and C# in a game development course at the SAE Institude in Dubai.
 <!--
 **Aadit1004/Aadit1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
