@@ -1,6 +1,6 @@
 # About Me👨‍💻
 
-My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my second year studying Computer Science and Mathematics at the University of British Columbia. My hobbies and interests include Aviation, travelling, gaming, and hanging out with friends and family. 
+My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my second year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My hobbies and interests include Aviation, travelling, gaming, and hanging out with friends and family. 
 
 # Technical Skills💻
 <p align="middle">
@@ -15,25 +15,21 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 # Completed Computer Science and Math Courses📝
 
 - CPSC 110 (Computation, Programs, and Programming)
-  - Learned how to use design processes to write functions as well as learning introduction recursion, abstraction, and data structures written in Racket BSL.
 - CPSC 121 (Models of Computation)
-  - Learned boolean algebra and combinations logic circuits, proof techniques, functions and sequential circuits, sets and relations, and finite state machines.
 - CPSC 210 (Software Construction)
-  - Learned Object Orientated Programming with topics such as software design, computational models, data structures, and exception handling written in Java.
 - CPSC 221 (Introduction to Algorithms and Data Structures)
-  - Learned time complexity, basic searching and sorting algorithms, trees structures, graphs, and more,
 - CPSC 213 (Introduction to Computer Systems)
-  - Learned software architecture, operating systems, and I/O architectures. Focused on static and dynamic control flow, stack and I/O devices, and asynchronous and multithreaded code. 
 - MATH 221 (Linear Algebra)
-  - Learned systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices.
 - MATH 200 (Calculus III) 
-  - Learned analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications.
 
 # Completed Projects✍️
 
 - Linear Algebra C++ Static Library
+  - Developed a C++ static library with over 80 public methods for easy integration of linear algebra computations, using technologies such as Microsoft CppUnitTestFramework, Visual Studio 2022, and Git/GitHub, while emphasizing robust unit testing, efficient algorithm design, and runtime optimization.
 - Multithreaded Text Analysis
+  - Implemented a multithreaded mini project in C++ using Visual Studio 2022 and Git/GitHub, utilizing a map data structure to efficiently compute word count, average word length, longest word, shortest word, most common word, and the number of unique words while reading large text files. This project aimed to enhance proficiency in multithreading and handling large datasets.
 - ATM Bank Application
+  - Developed a desktop application using Java and the Java Swing GUI library, enabling users to perform transactions such as withdrawals, deposits, and transfers, view transaction history, and save/load data, while emphasizing inheritance, exception handling, and test-driven development with JUnit5. Utilized UML class diagrams and user specifications for effective software development planning and employed JSON for data persistence.
 
 # Current Projects📋
 
