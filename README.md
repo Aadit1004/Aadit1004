@@ -22,7 +22,7 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 - MATH 221 (Linear Algebra)
 - MATH 200 (Calculus III) 
 
-# Completed Projects✍️
+# Completed Personal Projects✍️
 
 - Linear Algebra C++ Static Library
   - Developed a C++ static library with over 80 public methods for easy integration of linear algebra computations, using technologies such as Microsoft CppUnitTestFramework, Visual Studio 2022, and Git/GitHub, while emphasizing robust unit testing, efficient algorithm design, and runtime optimization.
