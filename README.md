@@ -33,10 +33,13 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 - Multithreaded Text Analysis
   - Implemented a multithreaded project in C++ using Visual Studio 2022 and Git/GitHub, utilizing a map data structure to efficiently compute word count, average word length, longest word, shortest word, most common word, and the number of unique words while reading large text files. This project aimed to enhance proficiency in multithreading and handling large datasets.
 
-# Current Projects📋
+# Currently Learning📋
 
 - FPS Game
   - Using Unity and C# in a game development course at the SAE Institude in Dubai.
+ 
+- HTML and CSS
+- Javascript
 <!--
 **Aadit1004/Aadit1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
