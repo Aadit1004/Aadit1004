@@ -38,7 +38,8 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my se
 - FPS Game
   - Using Unity and C# in a game development course at the SAE Institude in Dubai.
  
-- HTML, CSS, & Javascript
+- Website
+  - Learning HTML, CSS, & Javascript from scratch and practicing by building a basic website
 <!--
 **Aadit1004/Aadit1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
