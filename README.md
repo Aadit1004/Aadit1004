@@ -8,7 +8,7 @@ Proficient: C/C++, Java, JUnit5, Git/Github, Microsoft Visual Studio & CppUnitTe
 <br>
 Familiar: HTML, Java SWING Library
 
-# Completed Computer Science and Math Courses📝
+# Completed Relevant Computer Science and Math Courses📝
 
 - CPSC 110 (Computation, Programs, and Programming)
 - CPSC 121 (Models of Computation)
