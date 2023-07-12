@@ -26,14 +26,6 @@ Familiar: Java, Java SWING Library, HTML
   - Developed a desktop application using Java and the Java Swing GUI library, enabling users to perform transactions such as withdrawals, deposits, and transfers, view transaction history, and save/load data, while emphasizing inheritance, exception handling, and test-driven development with JUnit5. Utilized UML class diagrams and user specifications for effective software development planning and employed JSON for data persistence.
 - Sorting Algorthims Visualizer (May 2023)
   - Developed a sorting algorithm visualizer using Raylib C++ Library, allowing users to compare the time it takes to sort around 50 bars using Bubble Sort, Selection Sort, Merge Sort, and Insertion Sort simultaneously. Implemented multithreading to ensure all algorithms are displayed and compared at the same time. Aimed to create a useful tool for visualizing and understanding the differences and time comparisons between these common sorting algorithms.
-
-# Currently Learning📋
-
-- FPS Game
-  - Using Unity and C# in a game development course at the SAE Institude in Dubai.
- 
-- Website
-  - Learning HTML, CSS, & Javascript from scratch and practicing by building a basic website
 <!--
 **Aadit1004/Aadit1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
