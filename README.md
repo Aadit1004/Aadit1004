@@ -14,12 +14,12 @@ C/C++, C#, Unity, Java, JUnit5, Git/Github, Microsoft Visual Studio, Java SWING 
 - CPSC 221 (Introduction to Algorithms and Data Structures)
 - CPSC 213 (Introduction to Computer Systems)
 
-# Completed Game Projects🎮
+# Completed Game Development Projects🎮
 
 - 3D Multiplayer Chess (June 2023 - July 2023)
   - In my first internship, I successfully developed a 3D multiplayer chess game, utilizing Unity, C#, Photon PUN 2, and Visual Studio 2022, with Git/Github for version control. I skillfully navigated through the entire game development process, from gameplay programming to UI design. A key focus was ensuring matchmaking for public matches and private match synchronization and optimizing for mobile platforms. Post rigorous testing, the game was launched on both the [App Store](https://apps.apple.com/ae/app/super-chess-3d/id6452748872) and the [Google Play Store](https://play.google.com/store/apps/details?id=com.giro.superchess), marking a significant milestone in my journey of learning comprehensive game development from scratch to production.
 
-# Completed Projects✍️
+# Completed Non-Game Development Projects✍️
 
 - Linear Algebra C++ Static Library (May 2023)
   - Developed a C++ static library with over 80 public methods for easy integration of linear algebra computations, using technologies such as Microsoft CppUnitTestFramework, Visual Studio 2022, and Git/GitHub, while emphasizing robust unit testing, efficient algorithm design, and runtime optimization.
