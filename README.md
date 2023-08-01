@@ -17,7 +17,7 @@ C/C++, C#, Unity, Java, JUnit5, Git/Github, Microsoft Visual Studio, Java SWING 
 # Completed Game Development Projects🎮
 
 - 3D Multiplayer Chess (June 2023 - July 2023)
-  - In my first internship, I successfully developed a 3D multiplayer chess game, utilizing Unity, C#, Photon PUN 2, and Visual Studio 2022, with Git/Github for version control. I skillfully navigated through the entire game development process, from gameplay programming to UI design. A key focus was ensuring matchmaking for public matches and private match synchronization and optimizing for mobile platforms. Post rigorous testing, the game was launched on both the [App Store](https://apps.apple.com/ae/app/super-chess-3d/id6452748872) and the [Google Play Store](https://play.google.com/store/apps/details?id=com.giro.superchess), marking a significant milestone in my journey of learning comprehensive game development from scratch to production.
+  - In my first internship, I successfully developed a 3D multiplayer chess game, utilizing Unity, C#, Photon PUN 2, and Visual Studio 2022, with Git/Github for version control. I skillfully navigated through the entire game development process, from gameplay programming to UI design. Some key focuses were matchmaking for public matches,  online game synchronization, and optimization for mobile platforms. Post rigorous testing, the game was launched on both the [App Store](https://apps.apple.com/ae/app/super-chess-3d/id6452748872) and the [Google Play Store](https://play.google.com/store/apps/details?id=com.giro.superchess), marking a significant milestone in my journey of learning comprehensive game development from scratch to production.
 
 # Completed Non-Game Development Projects✍️
 
