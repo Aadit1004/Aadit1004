@@ -1,6 +1,6 @@
 # About Me👨‍💻
 
-My name is Aadit Rao. I am currently living in Vancouver, Canada and am in my third year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My hobbies and interests include aviation, Formula 1, travelling the world, gaming, and spending quality time with friends and family. 
+My name is Aadit Rao. I am currently living in Vancouver, Canada and I am in my third year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My hobbies and interests include aviation, Formula 1, travelling the world, and gaming. 
 
 # Technical Skills💻
 
