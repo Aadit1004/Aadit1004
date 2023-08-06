@@ -1,3 +1,24 @@
+<!--
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadit-rao-027119262/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
+    LinkedIn
+  </a> |
+  <a href="[PersonalWebsiteLinkURL]">
+    <img src="[PersonalWebsiteLogoURL]" alt="Personal Website" width="30" height="30">
+    Personal Website
+  </a> | 
+  <a href="https://leetcode.com/aaditrao/">
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" width="30" height="30">
+    LeetCode
+  </a> |
+  <a href="https://www.codewars.com/users/Skyl1ne">
+    <img src="https://docs.codewars.com/logo.svg" alt="Codewars" width="30" height="30">
+    Codewars
+  </a>
+</p>
+-->
+
 # About Me👨‍💻
 
 My name is Aadit Rao. I am currently living in Vancouver, Canada and I am entering my third year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My hobbies and interests include aviation, Formula 1, travelling the world, and gaming. 
