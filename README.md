@@ -25,7 +25,9 @@ My name is Aadit Rao. I am currently living in Vancouver, Canada and entering my
 
 # Technical Skills💻
 
-C/C++, C#, Unity, Java, JUnit5, Git/Github, Microsoft Visual Studio, Java SWING Library, & CppUnitTestFramework<br>
+Languages & Programs: C/C++, C#, Unity, Java
+
+Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Library, & CppUnitTestFramework<br>
 
 # Completed Relevant Computer Science Courses📝
 
