@@ -4,20 +4,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
     LinkedIn
   </a> |
-  <a href="[PersonalWebsiteLinkURL]">
-    <img src="[PersonalWebsiteLogoURL]" alt="Personal Website" width="30" height="30">
-    Personal Website
-  </a> | 
-  <a href="https://leetcode.com/aaditrao/">
-    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" width="30" height="30">
-    LeetCode
-  </a> |
-  <a href="https://www.codewars.com/users/Skyl1ne">
-    <img src="https://docs.codewars.com/logo.svg" alt="Codewars" width="30" height="30">
-    Codewars
+  <a href="https://skyl1ne0.itch.io/">
+    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Check out my games here!" width="30" height="30">
+    Check out my games here!
   </a>
 </p>
 -->
+
 
 # About Me👨‍💻
 
