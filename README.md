@@ -35,7 +35,7 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 - CPSC 221 (Introduction to Algorithms and Data Structures)
 - CPSC 213 (Introduction to Computer Systems)
 
-# Completed Game Development Projects🎮
+# Completed Solo-Development Game Projects🎮
 
 - ### Void Rocks (August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/void-rocks)
   - Inspired by Atari's "Asteroids," I built a 2D space shooter in Unity using C#. While working on it, I learned a lot about collisions, triggers, and game physics, especially when creating gravitational effects and spaceship movements. I also experimented in particle systems for better visual effects for explosions. On the art side, I tried my hand at pixel art with Piskel, giving the game objects its unique look. The coding was done in Visual Studio 2022, with Git/GitHub for version control.
