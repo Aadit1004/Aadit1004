@@ -36,7 +36,8 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 - CPSC 213 (Introduction to Computer Systems)
 
 # Completed Solo-Development Game Projects🎮
-
+- ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
+  - During my first internship, I developed a first-person horror game set in the Backrooms' Level 0. Inspired by Slender, players navigate a maze collecting research notes while evading an entity that relies on sound cues. The project emphasized graphics and post-processing to achieve an eerie, liminal aesthetic. I delved deep into NavMesh pathfinding for the AI monster and used Unity's timeline for the death animation. The game was created using Unity, Visual Studio 2022, and managed with Git/GitHub.
 - ### Void Rocks (August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/void-rocks)
   - Inspired by Atari's "Asteroids," I built a 2D pixel-art space shooter in Unity using C#. While working on it, I learned a lot about collisions, triggers, and game physics, especially when creating gravitational effects and spaceship movements. I also experimented in particle systems for better visual effects for explosions. On the art side, I tried my hand at pixel art with Piskel, giving the game objects its unique look. The coding was done in Visual Studio 2022, with Git/GitHub for version control.
 - ### 3D Multiplayer Chess (June 2023 - July 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/chess-3d)
