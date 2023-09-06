@@ -17,7 +17,7 @@
 
 My name is Aadit Rao. I am currently living in Vancouver, Canada and entering my third year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My passions span across Aviation, Formula 1, Travelling, and Gaming. 
 
-As I aspire to excel in game programming, I invite you to explore my game creations [here](https://skyl1ne0.itch.io/). Your feedback and insights are always appreciated!
+<!-- As I aspire to excel in game programming, I invite you to explore my game creations [here](https://skyl1ne0.itch.io/). Your feedback and insights are always appreciated! -->
 
 # Technical Skills💻
 
