@@ -21,7 +21,7 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 # Technical Skills💻
 
-Languages: C/C++, C#, Java
+Languages: C/C++, C#, POSIX, Java
 
 Game Engines/Tools: Unity, Photon Pun 2
 
