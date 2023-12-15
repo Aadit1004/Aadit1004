@@ -23,7 +23,7 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 Languages: C/C++, C#, POSIX, Java
 
-Game Engines/Tools: Unity, Photon Pun 2
+Game Engines/Tools: Unreal Engine 5, Unity, Photon Pun 2
 
 Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Library, & CppUnitTestFramework<br>
 
