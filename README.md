@@ -29,11 +29,12 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 
 # Completed Relevant Computer Science Courses📝
 
-- CPSC 110 (Computation, Programs, and Programming)
-- CPSC 121 (Models of Computation)
-- CPSC 210 (Software Construction)
-- CPSC 221 (Introduction to Algorithms and Data Structures)
+- CPSC 322 (Introduction to Artificial Intelligence)
 - CPSC 213 (Introduction to Computer Systems)
+- CPSC 221 (Introduction to Algorithms and Data Structures)
+- CPSC 210 (Software Construction)
+
+
 
 # Completed Solo-Development Game Projects🎮
 - ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
