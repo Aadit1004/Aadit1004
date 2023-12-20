@@ -21,7 +21,7 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 # Technical Skills💻
 
-Languages: C/C++, C#, POSIX, Java
+Languages: C/C++, C#, POSIX,  UE5 Blueprint, Java
 
 Game Engines/Tools: Unreal Engine 5, Unity, Photon Pun 2
 
@@ -33,7 +33,6 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 - CPSC 213 (Introduction to Computer Systems)
 - CPSC 221 (Introduction to Algorithms and Data Structures)
 - CPSC 210 (Software Construction)
-
 
 
 # Completed Solo-Development Game Projects🎮
