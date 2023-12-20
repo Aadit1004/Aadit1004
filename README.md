@@ -21,7 +21,7 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 - CPSC 221 (Introduction to Algorithms and Data Structures)
 - CPSC 210 (Software Construction)
 
-# Current Projects
+# Current Projects🖥️
 - ### After Hours (December 2023 - )
   - Currently working on a new first person horror walking simulator in Unreal Engine 5. My main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics. 
     
