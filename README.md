@@ -17,8 +17,6 @@ Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Libr
 - CPSC 313 (Computer Hardware and Operating Systems)
 - CPSC 322 (Introduction to Artificial Intelligence)
 - CPSC 320 (Intermediate Algorithm Design and Analysis)
-- CPSC 213 (Introduction to Computer Systems)
-- CPSC 221 (Introduction to Algorithms and Data Structures)
 - CPSC 210 (Software Construction)
 
 # Current Projects🛠️
