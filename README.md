@@ -8,16 +8,20 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 Languages: C/C++, C#, POSIX, UE5 Blueprint, Java
 
-Game Engines/Tools:  Unreal Engine 5, Unity, Photon Pun 2
+Game Engines/Tools:  Unity, Unreal Engine 5, Photon Pun 2
 
 Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Library, & CppUnitTestFramework<br>
 
-# Completed Relevant Computer Science Courses📝
+# Relevant University Courses📝
 
+- **CIP** - CPSC 310 (Introduction to Software Engineering)
+- **CIP** - CPSC 340 (Machine Learning and Data Mining)
+- **CIP** - Math 340 (Linear Programming)
 - CPSC 313 (Computer Hardware and Operating Systems)
 - CPSC 322 (Introduction to Artificial Intelligence)
 - CPSC 320 (Intermediate Algorithm Design and Analysis)
 - CPSC 210 (Software Construction)
+- Math 302 (Introduction to Probability)
 
 # Current Projects🛠️
 - ### After Hours (December 2023 - )
