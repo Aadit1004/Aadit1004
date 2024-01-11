@@ -10,7 +10,9 @@ Languages: C/C++, C#, POSIX, UE5 Blueprint, Java
 
 Game Engines/Tools:  Unity, Unreal Engine 5, Photon Pun 2
 
-Tools & Frameworks: Git/Github, Microsoft Visual Studio, JUnit5, Java SWING Library, & CppUnitTestFramework<br>
+Tools & Frameworks: Git/Github, Microsoft Visual Studio, Java SWING Library
+
+Testing: JUnit5, CppUnitTestFramework<br>
 
 # Relevant University Courses📝
 
