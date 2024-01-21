@@ -6,13 +6,14 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 # Technical Skills💻
 
-Languages: C/C++, C#, POSIX, UE5 Blueprint, Java
+Languages: C/C++, C#, Python, Java, TypeScript, POSIX
 
-Game Engines/Tools:  Unity, Unreal Engine 5, Photon Pun 2
+Game Engines/Tools: Unity, Unreal Engine 5, Photon Pun 2
 
-Tools & Frameworks: Git/Github, Microsoft Visual Studio, Java SWING Library
+Tools and Frameworks: Git/GitHub,VS Code, LaTeX, Node.js, Java SWING Library
 
-Testing: JUnit5, CppUnitTestFramework<br>
+Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
+
 
 # Relevant University Courses📝
 
