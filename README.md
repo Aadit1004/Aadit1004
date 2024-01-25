@@ -31,6 +31,8 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
   - Currently working on a new first person horror walking simulator in Unreal Engine 5. My main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics. 
 - ### InsightUBC (January 2024 - )
   - Currently working on a full stack project, along with [Bryan Hui](https://github.com/Sudo-BryanH), which focuses on creating an efficient backend for managing and querying historical data about UBC sections and rooms, followed by developing a user-friendly frontend for interactive queries. Using TypeScript, Node.JS, and Mocha/Chai for testing.
+- ### Predictive Model for Air Accident Risk (January 2024 - )
+  - Currently working on a supervised learning model that predicts the likelihood of an air accident based on input features based on the NTSB aviation accident dataset.
 # Completed Solo-Development Game Projects🎮
 - ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
   - During my first internship, I developed a first-person horror game set in the Backrooms' Level 0. Inspired by Slender, players navigate a maze collecting research notes while evading an entity that relies on sound cues. The project emphasized graphics and post-processing to achieve an eerie, liminal aesthetic. I delved deep into NavMesh pathfinding for the AI monster and used Unity's timeline for the death animation. The game was created using Unity, Visual Studio 2022, and managed with Git/GitHub.
