@@ -29,7 +29,7 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 # Current Projects🛠️
 - ### After Hours (December 2023 - )
   - Currently working on a new first person horror walking simulator in Unreal Engine 5. My main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics. 
-- ### InsightUBC (January 2034 - )
+- ### InsightUBC (January 2024 - )
   - Currently working on a full stack project, along with [Bryan Hui](https://github.com/Sudo-BryanH), which focuses on creating an efficient backend for managing and querying historical data about UBC sections and rooms, followed by developing a user-friendly frontend for interactive queries.
 # Completed Solo-Development Game Projects🎮
 - ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
