@@ -6,11 +6,9 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 # Technical Skills💻
 
-Languages: C/C++, C#, Python, Java, TypeScript, POSIX
+Languages: C/C++, C#, Python, Java, TypeScript, Unity, Unreal Engine 5, POSIX
 
-Game Engines/Tools: Unity, Unreal Engine 5, Photon Pun 2
-
-Tools and Frameworks: Git/GitHub,VS Code, LaTeX, Node.js, Java SWING Library
+Tools and Frameworks: Git/GitHub,VS Code, LaTeX, Node.js, Photon Pun 2, Java SWING Library
 
 Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 
@@ -43,6 +41,5 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 
 # Completed Non-Game Development Projects✍️
 
-- ### Linear Algebra C++ Static Library (May 2023)
-  - Developed a C++ static library with over 80 public methods for easy integration of linear algebra computations, using technologies such as Microsoft CppUnitTestFramework, Visual Studio 2022, and Git/GitHub, while emphasizing robust unit testing, efficient algorithm design, and runtime optimization.
+- ### Linear Algebra C++ Static Library (May 2023) - [Source Code](https://github.com/Aadit1004/Linear-Algebra-Static-Library)
 - ### ATM Bank Application (September 2022 - November 2022) - [Source Code](https://github.com/Aadit1004/ATM-Bank-Application)
