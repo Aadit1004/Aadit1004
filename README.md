@@ -6,9 +6,9 @@ I am currently living in Vancouver, Canada and in my third year at the Universit
 
 # Technical Skills💻
 
-Languages: C/C++, C#, Python, Java, TypeScript, Unity, Unreal Engine 5, POSIX
+Languages: C/C++, C#, Python, Java, TypeScript, Unity, Unreal Engine 5
 
-Tools and Frameworks: Git/GitHub,VS Code, LaTeX, Node.js, Photon Pun 2, Java SWING Library
+Tools and Frameworks: Git/GitHub, LaTeX, VS Code, Node.js, Photon Pun 2, Java SWING Library
 
 Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 
