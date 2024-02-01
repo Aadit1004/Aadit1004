@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-I am currently living in Vancouver, Canada and in my third year at the University of British Columbia majoring in Computer Science and a minor in Mathematics. My passions span across Aviation, Formula 1, Travelling, and Gaming. 
+I am currently living in Vancouver, Canada and in my third year at the University of British Columbia majoring in Computer Science and minoring in Mathematics. My passions span across Aviation, Formula 1, Travelling, and Gaming. 
 
 # Technical Skills💻
 
