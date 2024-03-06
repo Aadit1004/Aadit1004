@@ -27,8 +27,6 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 # Current Projects🛠️
 - ### InsightUBC (January 2024 - )
   - Currently working on a full stack project, along with [Bryan Hui](https://github.com/Sudo-BryanH), which focuses on creating an efficient backend for managing and querying historical data about UBC sections and rooms, followed by developing a user-friendly frontend for interactive queries. Using TypeScript, Node.JS, and Mocha/Chai for testing.
-- ### Air Incidents Pattern Analysis (January 2024 - )
-  - Pattern analysis on NTSB aviation incidents data from 1982 to 2024 using machine learning unsupervised learning models using clustering algorithms. Using Python and scikit-learn.
 - ### After Hours (December 2023 - )
   - Currently working on a new first person horror walking simulator in Unreal Engine 5. My main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics. 
 # Completed Solo-Development Game Projects🎮
