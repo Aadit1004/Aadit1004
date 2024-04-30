@@ -25,8 +25,8 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 - Math 340 (Introduction to Linear Programming)
 
 # Current Projects🛠️
-- ### Gothic Requiem (April 2024 - )
-  - Currently working on a third person game with Souls-like combat in Unreal Engine 5.
+- ### Kings vs Pigs (April 2024 - )
+  - Currently working on a 2D platformer game in Unreal Engine 5.
   <!--  Main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics.  -->
 # Completed Solo-Development Game Projects🎮
 - ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
