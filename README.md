@@ -25,7 +25,7 @@ Testing: Mocha/Chai, JUnit5, Microsoft CppUnitTestFramework API <br>
 - Math 340 (Introduction to Linear Programming)
 
 # Current Projects🛠️
-- ### PAlgoX++ (May 2024 - )
+- ### PAlgoX (May 2024 - )
   - Parallel Algorithms Static Library in C++
 - ### Kings vs Pigs (April 2024 - )
   - 2D platformer game in Unreal Engine 5.
