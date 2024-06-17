@@ -25,8 +25,8 @@ Testing: Catch2, Mocha/Chai, JUnit5, MSTest <br>
 - Math 340 (Introduction to Linear Programming)
 
 # Current Projects🛠️
-- ### PAlgoX (May 2024 - ) - [Source Code](https://github.com/Aadit1004/PAlgoX)
-  - Parallel Algorithms Static Library in C++
+- ### PAlgoX (May 2024 - ) - [Source Code](https://github.com/Aadit1004/PAlgoX) - *C++*
+  - Parallel Algorithms Static Library
   <!-- - ### Kings vs Pigs (April 2024 - )
   - 2D platformer game in Unreal Engine 5. Main goal is to learn UE5 blueprinting and focusing on user interaction, collisons and triggers, and core game mechanics.  -->
 
