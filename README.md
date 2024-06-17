@@ -6,7 +6,7 @@ I am currently in my third year at the University of British Columbia majoring i
 
 # Technical Skills💻
 
-Languages: C/C++, C#, TypeScript, Python, Java, Unreal Engine 5, Unity
+Languages: C/C++, C#, TypeScript, Java, Python, Unity
 
 Tools and Frameworks: Git/GitHub, LaTeX, CLion, IntelliJ, VS Code, Node.js, Photon Pun 2
 
