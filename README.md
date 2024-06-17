@@ -32,12 +32,12 @@ Testing: Catch2, Mocha/Chai, JUnit5, MSTest <br>
 
 # Completed Projects✍️
 
-- ### InsightUBC (January 2024 - April 2024) - [Video Showcase](https://youtu.be/75JvkotGXSQ)
+- ### InsightUBC (January 2024 - April 2024) - [Video Showcase](https://youtu.be/75JvkotGXSQ) - *TypeScript*
 <!-- Currently working on a full stack project, along with [Bryan Hui](https://github.com/Sudo-BryanH), which focuses on creating an efficient backend for managing and querying historical data about UBC sections and rooms, followed by developing a user-friendly frontend for interactive queries. Using TypeScript, Node.JS, and Mocha/Chai for testing. -->
-- ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
-- ### Void Rocks (August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/void-rocks) - [Source Code](https://github.com/Aadit1004/Void-Rocks)
-- ### 3D Multiplayer Chess (June 2023 - July 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/chess-3d)
-- ### Linear Algebra C++ Static Library (May 2023) - [Source Code](https://github.com/Aadit1004/Linear-Algebra-Static-Library)
-- ### ATM Bank Application (September 2022 - November 2022) - [Source Code](https://github.com/Aadit1004/ATM-Bank-Application)
+- ### Silent Stalker of Level 0 (July 2023 - August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/silent-stalker-of-level-0) - *C#*
+- ### Void Rocks (August 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/void-rocks) - [Source Code](https://github.com/Aadit1004/Void-Rocks) - *C#*
+- ### 3D Multiplayer Chess (June 2023 - July 2023) - [Itch.io Game Page](https://skyl1ne0.itch.io/chess-3d) - *C#*
+- ### Linear Algebra Static Library (May 2023) - [Source Code](https://github.com/Aadit1004/Linear-Algebra-Static-Library) - *C++*
+- ### ATM Bank Application (September 2022 - November 2022) - [Source Code](https://github.com/Aadit1004/ATM-Bank-Application) - *Java*
 
 <!-- # Completed Solo-Development Game Projects🎮 -->
