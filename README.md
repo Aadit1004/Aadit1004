@@ -15,10 +15,10 @@ Testing: Catch2, Mocha/Chai, JUnit5, MSTest <br>
 
 # Relevant University Courses📝
 
-- ***CIP*** - CPSC 317 (Introduction to Computer Networking)
 - CPSC 340 (Machine Learning and Data Mining)
 - CPSC 313 (Computer Hardware and Operating Systems)
 - CPSC 322 (Introduction to Artificial Intelligence)
+- CPSC 317 (Introduction to Computer Networking)
 - CPSC 320 (Intermediate Algorithm Design and Analysis)
 - CPSC 310 (Introduction to Software Engineering)
 - Math 302 (Introduction to Probability)
