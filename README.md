@@ -13,7 +13,7 @@ Tools and Frameworks: Git/GitHub, LaTeX, CLion, IntelliJ, VS Code, Node.js, Phot
 Testing: Catch2, Mocha/Chai, JUnit5, MSTest <br>
 
 
-# Relevant University Courses📝
+<!-- # Relevant University Courses📝
 
 - CPSC 340 (Machine Learning and Data Mining)
 - CPSC 313 (Computer Hardware and Operating Systems)
@@ -22,7 +22,7 @@ Testing: Catch2, Mocha/Chai, JUnit5, MSTest <br>
 - CPSC 320 (Intermediate Algorithm Design and Analysis)
 - CPSC 310 (Introduction to Software Engineering)
 - Math 302 (Introduction to Probability)
-- Math 340 (Introduction to Linear Programming)
+- Math 340 (Introduction to Linear Programming) -->
 
 <!-- # Current Projects🛠️ -->
   <!-- - ### Kings vs Pigs (April 2024 - )
