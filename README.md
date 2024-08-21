@@ -16,6 +16,14 @@ Game Developement: Unreal Engine 5, Unity <br>
 
 # Links🔗
 ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne)
+
+# Stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit1004&layout=compact&theme=tokyonight)
+
+![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+
+
 <!-- # Relevant University Courses📝
 
 - CPSC 340 (Machine Learning and Data Mining)
