@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-I am currently in my third year at the University of British Columbia majoring in Computer Science and minoring in Mathematics. My interests span across Aviation, Gaming, Formula 1, and Travelling. 
+I am currently a student at the University of British Columbia majoring in Computer Science and minoring in Mathematics. My interests span across Aviation, Gaming, Formula 1, and Travelling. 
 
 # Technical Skills💻
 
