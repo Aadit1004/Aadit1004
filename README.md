@@ -10,7 +10,7 @@ Languages: C/C++, C#, TypeScript, Python, Java
 
 Tools and Frameworks: Git/GitHub, LaTeX, CLion, IntelliJ, VS Code, Node.js, Photon Pun 2
 
-Testing: Catch2, Mocha/Chai, JUnit5, MSTest 
+Testing: XUnit, Selenium, Catch2, Mocha/Chai, JUnit5, MSTest 
 
 Game Developement: Unreal Engine 5, Unity, SFML<br>
 
