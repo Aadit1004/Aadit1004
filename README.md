@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-I am currently a student at the University of British Columbia majoring in Computer Science and minoring in Mathematics. My interests span across Aviation, Gaming, Formula 1, and Travelling. 
+I'm a 4th year student at the University of British Columbia majoring in Computer Science and minoring in Mathematics. I currently doing my Co-op as a Software Developer at Geotab. My interests span across Gaming, Aviation, Motorsports, and Travelling. 
 
 # Technical Skills💻
 
@@ -12,7 +12,7 @@ Tools and Frameworks: Git/GitHub, LaTeX, CLion, IntelliJ, VS Code, Node.js, Phot
 
 Testing: XUnit, Selenium, Catch2, Mocha/Chai, JUnit5, MSTest 
 
-Game Developement: Unreal Engine 5, Unity, SFML<br>
+Game Developement: Unreal Engine 5, Unity, SFML, Raylib<br>
 
 # Links🔗
 ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne)
