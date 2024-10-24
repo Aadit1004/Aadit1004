@@ -6,7 +6,7 @@ I'm a 4th year student at the University of British Columbia majoring in Compute
 
 # Technical Skills💻
 
-Languages: C/C++, C#, TypeScript, Python, Java
+Languages: C/C++, C#, TypeScript, Java, Python
 
 Tools and Frameworks: Git/GitHub, LaTeX, CLion, IntelliJ, VS Code, Node.js, Photon Pun 2
 
