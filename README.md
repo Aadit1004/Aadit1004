@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-I'm a 4th year student at the University of British Columbia, majoring in Computer Science and minoring in Mathematics. I am currently doing my Co-op as a Software Developer at Geotab. My interests span across Gaming, Aviation, Motorsports, and Travelling. 
+I'm a 4th year student at the University of British Columbia, majoring in Computer Science and minoring in Mathematics. Currently, I’m doing my Co-op as a Software Developer Intern at Geotab, and a Team Lead/ Lead Programmer for the UBC Game Dev Club. My interests span across Gaming, Aviation, Motorsports, and Travelling. 
 
 # Technical Skills💻
 
