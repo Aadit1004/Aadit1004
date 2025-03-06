@@ -8,11 +8,13 @@ I'm a 4th year student at the University of British Columbia, majoring in Comput
 
 # Technical Skills💻
 
-Languages: C/C++, C#, TypeScript, Java, Python
+Languages: C/C++, C#, TypeScript, Java
 
-Tools and Frameworks: .NET 8, CMake, Node.js, Git/GitHub, Unreal Engine 5, Unity
+Tools and Frameworks: .NET 8, Node.js, PostgreSQL, Git/GitHub, Unreal Engine 5, Unity
 
-Testing: XUnit, Selenium, Jest, Catch2, Mocha/Chai, JUnit5, MSTest 
+Testing: XUnit, Catch2, Selenium, Jest, Mocha/Chai, JUnit5, MSTest
+
+Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
 # Links🔗
 ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) 
