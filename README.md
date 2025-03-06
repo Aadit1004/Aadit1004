@@ -17,7 +17,8 @@ Testing: XUnit, Catch2, Selenium, Jest, Mocha/Chai, JUnit5, MSTest
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
 # Links🔗
-### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) 
+### [Personal Website](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) 
+<!-- ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) -->
 <!-- | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne) -->
 
 # Stats 📈
