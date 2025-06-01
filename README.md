@@ -8,9 +8,9 @@ I'm a 4th year student at the University of British Columbia, majoring in Comput
 
 # Technical Skills💻
 
-Languages: C/C++, C#, TypeScript, Java
+Languages: C++, C#, C, TypeScript
 
-Tools and Frameworks: .NET 8, Node.js, PostgreSQL, Git/GitHub, Unreal Engine 5, Unity
+Tools and Frameworks: .NET 8, Node, PostgreSQL, Git, Unreal Engine 5, Unity
 
 Testing: XUnit, Catch2, Selenium, Jest, Mocha/Chai, JUnit5, MSTest
 
