@@ -24,7 +24,7 @@ Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 # Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit1004&layout=compact&theme=tokyonight)
 
-![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true)
+<!-- ![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true) -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Aadit1004&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
