@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is in C/C++ and C#, with interest in engine, graphics, and game programming.
+Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is in C/C++ and C#, with interest in game engine, graphics, and OS programming.
 
 <!-- My interests span across Gaming, Aviation, Motorsports, and Travelling. -->
 
