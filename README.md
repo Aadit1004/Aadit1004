@@ -8,7 +8,7 @@ Currently a fourth-year Computer Science student studying at UBC with a minor in
 
 # Technical Skills💻
 
-Languages: C++, C#, C, TypeScript
+Languages: C/C++, C#, Python
 
 Tools and Frameworks: .NET 8, Node, PostgreSQL, Git, Unreal Engine 5, Unity
 
