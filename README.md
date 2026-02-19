@@ -2,17 +2,17 @@
 
 # About Me👨‍💻
 
-Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is in C/C++ and C#, with interest in game engine, graphics, and systems programming.
+Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is performance-focused software in C/C++ and Python, and I’m interested in game engine & real-time graphics, systems/performance programming, and quantitative finance engineering.
 
 <!-- My interests span across Gaming, Aviation, Motorsports, and Travelling. -->
 
 # Technical Skills💻
 
-Languages: C/C++, C#, Python, TypeScript
+Languages: C/C++, Python, C#, TypeScript
 
-Tools and Frameworks: .NET 8, Node, PostgreSQL, Git, Unreal Engine 5, Unity
+Tools and Frameworks: ARMv8-A, QEMU, Barrelfish OS, Linux, Docker, .NET 8, PostgreSQL, Git
 
-Testing: XUnit, Catch2, Selenium, Jest, Mocha/Chai, JUnit5, MSTest
+Testing: , Catch2, xUnit, Pytest, Jest
 
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
