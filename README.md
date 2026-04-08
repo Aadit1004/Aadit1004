@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is performance-focused software in C/C++ and Python, and I’m interested in game engine & real-time graphics, systems/performance programming, and quantitative finance engineering.
+Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is performance-focused software in C/C++ and Python, and I’m interested in systems/performance programming, quantitative finance engineering, and game engine & real-time graphics.
 
 <!-- My interests span across Gaming, Aviation, Motorsports, and Travelling. -->
 
@@ -17,7 +17,7 @@ Testing: , Catch2, xUnit, Pytest, Jest
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
 # Links🔗
-### [Personal Website](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) 
+### [Personal Website](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aadit1004/) 
 <!-- ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) -->
 <!-- | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne) -->
 
