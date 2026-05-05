@@ -2,17 +2,17 @@
 
 # About Me👨‍💻
 
-Currently a fourth-year Computer Science student studying at UBC with a minor in Mathematics. My technical focus is performance-focused software in C/C++ and Python, and I’m interested in systems/performance programming, quantitative finance engineering, and game engine & real-time graphics.
+Graduated from the University of British Columbia with a Bachelor's in Computer Science and a minor in Mathematics. I'm interested in low-latency systems, high-frequency trading, and game engine programming.
 
 <!-- My interests span across Gaming, Aviation, Motorsports, and Travelling. -->
 
 # Technical Skills💻
 
-Languages: C/C++, Python, C#, TypeScript
+Languages: C/C++, Python, C#, TypeScript, SQL
 
-Tools and Frameworks: ARMv8-A, QEMU, Barrelfish OS, Linux, Docker, .NET 8, PostgreSQL, Git
+Systems and Infrastructure: Linux, ARMv8-A, QEMU, Barrelfish OS, Docker, PostgreSQL, Git
 
-Testing: , Catch2, xUnit, Pytest, Jest
+Libraries and Frameworks: NumPy, SciPy, CuPy, .NET 8, Catch2, xUnit, Selenium, Jest
 
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
