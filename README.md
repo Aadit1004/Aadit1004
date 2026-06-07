@@ -17,7 +17,7 @@ Libraries and Frameworks: NumPy, SciPy, CuPy, .NET 8, Catch2, xUnit, Selenium, J
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
 # Links🔗
-### [Personal Website](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aadit1004/) 
+### [Personal Website (Portfolio)](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aadit1004/) 
 <!-- ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) -->
 <!-- | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne) -->
 
