@@ -17,16 +17,14 @@ Libraries and Frameworks: NumPy, SciPy, CuPy, .NET 8, Catch2, xUnit, Selenium, J
 Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 
 # Links🔗
-### [Personal Website (Portfolio)](https://aadit1004.github.io/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aadit1004/) 
+### [Personal Website (Portfolio)](https://aadit1004.github.io/) | [Itch.io (Game Dev Portfolio)](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aadit1004/) 
 <!-- ### [Personal Website](https://aadit1004.github.io/) | [Linkedin](https://www.linkedin.com/in/aaditrao/) | [Itch.io](https://skyl1ne0.itch.io/) | [Leetcode](https://leetcode.com/u/aaditrao/) -->
 <!-- | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne) -->
 
-<!-- # Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit1004&layout=compact&theme=tokyonight) -->
+# Stats 📈
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Aadit1004&layout=compact&theme=tokyonight)
 
-<!-- ![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true) -->
-
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Aadit1004&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+[![Aadit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- # Relevant University Courses📝
 
