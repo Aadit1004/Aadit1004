@@ -22,9 +22,9 @@ Build & Performance Tools: Make, CMake, Valgrind, Gprof, Clang-Tidy
 <!-- | [HackerRank](https://www.hackerrank.com/profile/Skyl1ne) -->
 
 # Stats 📈
-![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Aadit1004&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Aadit1004&layout=compact&langs_count=4&theme=rose_pine)](https://github-stats-extended.vercel.app/api/top-langs?username=Aadit1004&layout=compact&langs_count=4&theme=rose_pine)
 
-[![Aadit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aadit1004&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+[![Aadit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aadit1004&rank_icon=github&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=Aadit1004&rank_icon=github&show_icons=true&include_all_commits=true&theme=rose_pine)
 
 <!-- # Relevant University Courses📝
 
