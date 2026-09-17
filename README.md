@@ -2,7 +2,7 @@
 
 # About Me👨‍💻
 
-Graduated from the University of British Columbia with a Bachelor's in Computer Science and a minor in Mathematics. I'm interested in low-latency systems, high-frequency trading, and game engine programming.
+Graduated from the University of British Columbia with a Bachelor's in Computer Science and a minor in Mathematics. I'm interested in low-latency systems, quantitative developement, and game engine programming.
 
 <!-- My interests span across Gaming, Aviation, Motorsports, and Travelling. -->
 
